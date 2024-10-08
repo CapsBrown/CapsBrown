@@ -4,7 +4,7 @@ About me
 
 I'm a self-taught passionate Backend Developer from  Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 Discord Bot Developer
-Contact Info
+Contact Info:
 
 🔗 Socials: https://slat.cc/CapsRiou
 📫 Discord: real_caps#5689
